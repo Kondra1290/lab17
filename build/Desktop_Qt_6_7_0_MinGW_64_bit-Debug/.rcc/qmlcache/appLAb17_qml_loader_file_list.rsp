@@ -1,9 +1,0 @@
---resource
-C:/Users/shura/Documents/LAb17/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_LAb17.qrc
---resource
-C:/Users/shura/Documents/LAb17/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/appLAb17_raw_qml_0.qrc
-/LAb17/Main.qml
-/LAb17/Game.qml
-/LAb17/GameOver.qml
-/LAb17/GameLogic.js
-/LAb17/PageLoader.qml

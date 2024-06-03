@@ -1,2 +1,0 @@
-C:/Users/shura/Documents/LAb17/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appLAb17_autogen/include/../EWIEGA46WW/moc_dbmanager.cpp.json
-C:/Users/shura/Documents/LAb17/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/appLAb17_autogen/include/../EWIEGA46WW/moc_listmodel.cpp.json
