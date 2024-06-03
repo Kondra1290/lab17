@@ -1,0 +1,9 @@
+module LAb17
+typeinfo appLAb17.qmltypes
+prefer :/LAb17/
+Main 1.0 Main.qml
+Game 1.0 Game.qml
+GameOver 1.0 GameOver.qml
+GameLogic 1.0 GameLogic.js
+PageLoader 1.0 PageLoader.qml
+

@@ -1,0 +1,101 @@
+[
+    {
+        "classes": [
+            {
+                "className": "DBManager",
+                "object": true,
+                "qualifiedClassName": "DBManager",
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "user",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "score",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "checkUser",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "user",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "score",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "insertIntoTable",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "user",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "score",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "updateRecord",
+                        "returnType": "bool"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "dbmanager.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "ListModel",
+                "object": true,
+                "qualifiedClassName": "ListModel",
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "updateModel",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "row",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "getId",
+                        "returnType": "int"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QSqlQueryModel"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "listmodel.h",
+        "outputRevision": 68
+    }
+]

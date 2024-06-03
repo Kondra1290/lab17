@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/LAb17/">
+    <file alias="Main.qml">C:/Users/shura/Documents/LAb17/Main.qml</file>
+    <file alias="Game.qml">C:/Users/shura/Documents/LAb17/Game.qml</file>
+    <file alias="GameOver.qml">C:/Users/shura/Documents/LAb17/GameOver.qml</file>
+    <file alias="GameLogic.js">C:/Users/shura/Documents/LAb17/GameLogic.js</file>
+    <file alias="PageLoader.qml">C:/Users/shura/Documents/LAb17/PageLoader.qml</file>
+    <file alias="i.qrc">C:/Users/shura/Documents/LAb17/i.qrc</file>
+    <file alias="iconca.png">C:/Users/shura/Documents/LAb17/iconca.png</file>
+  </qresource>
+</RCC>
+
